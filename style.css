@@ -18,8 +18,8 @@ body{
     border: 2px;
     padding: auto;
     border-radius: 1000px;
-    width: 180px;
-    height: 180px;
+    width: 12rem;
+    height: 12rem;
     position: relative;
     border-color: dimgray;
 }
