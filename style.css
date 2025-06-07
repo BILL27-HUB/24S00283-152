@@ -11,15 +11,15 @@ body{
     border: 1px solid black;
     padding: 5px;
     min-width: 50%;
-    background-color: beige;
+    background-color: rgb(253, 253, 123);
 }
 
 .image-cadre{
     border: 2px;
     padding: auto;
     border-radius: 1000px;
-    width: 300px;
-    height: 300px;
+    width: 180px;
+    height: 180px;
     position: relative;
     border-color: dimgray;
 }
