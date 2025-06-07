@@ -1,0 +1,89 @@
+body{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    width: 100vw;
+    background-color: beige;
+    margin: 40px 100px;
+}
+
+#personal_info{
+    border: 1px solid black;
+    padding: 5px;
+    min-width: 50%;
+    background-color: beige;
+}
+
+.image-cadre{
+    border: 2px;
+    padding: auto;
+    border-radius: 1000px;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    border-color: dimgray;
+}
+
+#info{
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+}
+
+#name{
+    text-decoration-thickness: 30px;
+    color: blueviolet;
+}
+#profil::first-letter {
+    text-transform: capitalize;
+}
+#text::first-letter {
+    text-transform: capitalize;
+}
+#crd::first-letter{
+    text-transform: uppercase;
+}
+
+#loisir::first-letter{
+    text-transform: capitalize;
+}
+
+#lng::first-letter{
+    text-transform: uppercase;
+}
+#profesionnal_info{
+    padding: 5px;
+    min-width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+#avril{
+    text-transform: capitalize;
+}
+#ntop{
+    text-transform: uppercase;
+}
+#njombe{
+    text-transform: uppercase;
+}
+#fevrier{
+    text-transform: capitalize;
+}
+#horizon{
+    text-transform: uppercase;
+}
+#experience{
+    text-transform: uppercase;
+    text-decoration-color: blue;
+}
+#formation{
+    text-transform: uppercase;
+}
+#universite{
+    text-transform: uppercase;
+}
+#collège{
+    text-transform: capitalize;
+}
+#com{
+    text-transform: uppercase; 
+}
